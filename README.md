@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bayyounkh
 - 👀 I’m interested in FRONTEND and Web Developement
-- 👩‍🏫 I've learned Html5, Css3, and Bootstraps.
-- 🌱 I’m currently learning Java Script
+- 👩‍🏫 I've learned Html5, Css3,Java Script and Bootstraps.
+- 🌱 I’m currently learning React.js
 - 📫 you can reach me on my Email Address: bayan.khatib@outlook.com
 
 <!---
